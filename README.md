@@ -1,27 +1,46 @@
-# LojaDeLivros
+# Loja de livros
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+Projeto com o intuito de ser uma loja online de livros em geral com login e todas as fuções de uma loja online.
 
-## Development server
+> Status do Projeto: Em desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Começando
 
-## Code scaffolding
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Pré-requisitos
 
-## Build
+* NPM
+* Node
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Instalação
 
-## Running unit tests
+Clone este repositório usando o comando:
+```bash
+git clone https://github.com/carlosjeff/loja-de-livros.git
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+Na pasta do projeto instale as dependências com uso do npm
+```bash
+npm install
 
-## Running end-to-end tests
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Para iniciar o servidor é só usar o comando na pasta do projeto
+```bash
+npm run start
 
-## Further help
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Construído com
+
+* [Angular](https://angular.io/) - Framework JavaScript
+
+## Autor
+
+* **Carlos Jefferson Braga Alves** - [LinkedIn ](https://www.linkedin.com/in/carlosjeff/)
+
+
+## Licença
+
+Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md](https://github.com/carlosjeff/loja-de-livros/blob/main/LICENSE.md) para detalhes.
